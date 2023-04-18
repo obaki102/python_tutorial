@@ -1,0 +1,17 @@
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Other
+*.pyo
+*.pyd
+*.log
+*.swp
